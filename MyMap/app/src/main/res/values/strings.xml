@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="marker_colors">
+        <item>AZURE</item>
+        <item>BLUE</item>
+        <item>CYAN</item>
+        <item>GREEN</item>
+        <item>MAGENTA</item>
+        <item>ORANGE</item>
+        <item>RED</item>
+        <item>ROSE</item>
+        <item>VIOLET</item>
+        <item>YELLOW</item>
+    </string-array>
+    <string-array name="sensor_type">
+        <item>Accelerometer</item>
+        <item>Light</item>
+        <item>Barometer</item>
+        <item>Thermometer</item>
+        <item>Humidity</item>
+        <item>Gyroscope</item>
+    </string-array>
+</resources>
